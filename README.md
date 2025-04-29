@@ -10,7 +10,7 @@ Projeto feito para testar minhas habilidades de quando terminei meu curso de CSS
 
 ## Acesso ao Projeto
 
-[Git:https://github.com/kauekitow]
+[Link:https://kauekitow.github.io/AgenciaFake/]
 
 ## Autor
 
